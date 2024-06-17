@@ -13,7 +13,7 @@ const persona = {
 //console.table(persona) -> Funcion de utilidad, de visualizacion
 console.log({persona});
 
-//Copiar Estructura de un modelo de Datos
+//Copiar Estructura de un modelo de Datos Operador Spreet
 const persona2 = {...persona};
 persona2.nombre = 'Kratos'
 
